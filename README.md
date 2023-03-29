@@ -1,4 +1,4 @@
 # KMeans 
 KMeans en Scala sur le jeu de données iris, réalisé à l'aide du notebook Almond (https://almond.sh).
 
-Pour plus d'informations, ouvrir le fichier Programmation concurrente.pdf
+Pour plus d'informations, ouvrir le fichier Programmation_concurrente.pdf
